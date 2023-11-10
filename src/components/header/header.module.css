@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  color: white;
+  background: linear-gradient(to bottom, #33ccff 19%, #cc66ff 100%);
+}
+
+.button {
+  display: flex;
+  justify-content: space-around;
+}
